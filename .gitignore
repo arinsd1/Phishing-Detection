@@ -12,8 +12,6 @@ env/
 
 # Data files (if they are too large or should not be version controlled)
 data/
-*.csv
-*.xlsx
 *.parquet
 
 # Log files
